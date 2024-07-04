@@ -61,7 +61,6 @@ mse = mean_squared_error(y_test, y_pred)
 #####
 
 st.title("Predicción de Ratings para Taco Bell")
-st.write("Mean Squared Error:", mse)
 
 # Interfaz para ingresar ciudad y año
 st.header("Predicción de rating para una ciudad y año específicos")
